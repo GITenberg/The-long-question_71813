@@ -1,0 +1,27 @@
+_repo: The-long-question_71813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, David
+    birthdate: 1924
+    deathdate: 1974
+    gutenberg_agent_id: '26303'
+    url: http://www.gutenberg.org/2009/agents/26303
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71813'
+language: en
+pgterms:marc905: 20230902083623mason
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The long question
+url: http://www.gutenberg.org/ebooks/71813
