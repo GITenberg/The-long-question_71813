@@ -1,5 +1,8 @@
 _repo: The-long-question_71813
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71813-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, David
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '26303'
     url: http://www.gutenberg.org/2009/agents/26303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71813#The-long-question
 gutenberg_issued: '2023-10-05'
 identifiers:
   gutenberg: '71813'
